@@ -1,0 +1,797 @@
+[
+    {
+        "metadata": {
+            "input_documents": [
+                "input/documents/Dinner Ideas - Mains_1.pdf",
+                "input/documents/Dinner Ideas - Mains_2.pdf",
+                "input/documents/Dinner Ideas - Mains_3.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_1.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_2.pdf",
+                "input/documents/Learn Acrobat - Edit_1.pdf",
+                "input/documents/Learn Acrobat - Edit_2.pdf",
+                "input/documents/South of France - Cities.pdf",
+                "input/documents/South of France - Cuisine.pdf",
+                "input/documents/South of France - History.pdf"
+            ],
+            "persona": "Travel Planner",
+            "job_to_be_done": {
+                "task": "Plan a trip of 4 days for a group of 10 college friends."
+            },
+            "processing_timestamp": "2025-07-27T19:20:52Z"
+        },
+        "extracted_section": [
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 10,
+                "section_title": "Relevant Paragraph (Score: 0.17)",
+                "importance_rank": 1
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 2,
+                "section_title": "Relevant Paragraph (Score: 0.17)",
+                "importance_rank": 2
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.17)",
+                "importance_rank": 3
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 28,
+                "section_title": "Relevant Paragraph (Score: 0.16)",
+                "importance_rank": 4
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 12,
+                "section_title": "Relevant Paragraph (Score: 0.16)",
+                "importance_rank": 5
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 8,
+                "section_title": "Relevant Paragraph (Score: 0.15)",
+                "importance_rank": 6
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 9,
+                "section_title": "Relevant Paragraph (Score: 0.14)",
+                "importance_rank": 7
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 1,
+                "section_title": "Relevant Paragraph (Score: 0.13)",
+                "importance_rank": 8
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 7,
+                "section_title": "Relevant Paragraph (Score: 0.13)",
+                "importance_rank": 9
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 25,
+                "section_title": "Relevant Paragraph (Score: 0.13)",
+                "importance_rank": 10
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 9,
+                "section_title": "Relevant Paragraph (Score: 0.13)",
+                "importance_rank": 11
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 4,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 12
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 1,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 13
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 10,
+                "section_title": "Relevant Paragraph (Score: 0.11)",
+                "importance_rank": 14
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 14,
+                "section_title": "Relevant Paragraph (Score: 0.11)",
+                "importance_rank": 15
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 16
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 17
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 18
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 3,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 19
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 26,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 20
+            }
+        ],
+        "sub-section_analysis": [
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 10,
+                "refined_text": "Montpellier: A University City with Medieval Charm \nHistory \nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. Montpellier has been a center of learning and innovation for centuries, attracting \nscholars and students from around the world. \nKey Attractions \n• \nPlace de la Comédie: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to \nstart exploring the city. \n• \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its \nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. \n• \nPromenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city \nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower. \n• \nMusée Fabre: One of the most important art museums in France, the Musée Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts. \nStudent Life \n• \nUniversity Influence: Highlight the vibrant student life and the influence of the \nuniversity on the city's culture. \n• \nModern Architecture: Mention modern architectural landmarks like the Antigone \ndistrict or the Pierresvives building. \nCultural Highlights \nMontpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues, \nand festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary \ndance companies from around the world. Montpellier's cuisine is also notable, with local \nspecialties such as tielle (a savory pie filled with octopus) and wines from the surrounding \nvineyards.",
+                "importance_rank": 1
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 2,
+                "refined_text": "Overview of the Region \nThe South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, \nOccitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, \nfrom the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and \nthe rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and \nmild winters, making it a year-round destination. The South of France is also famous for its \ncuisine, wines, and vibrant cultural scene. \nTravel Tips \n• \nBest Time to Visit: The best time to visit the South of France is during the spring (April \nto June) and fall (September to October) when the weather is pleasant, and the tourist \ncrowds are smaller. \n• \nTransportation: The region is well-connected by an extensive network of trains, \nbuses, and flights. Renting a car is also a great option for exploring the countryside \nand smaller towns. \n• \nLanguage: While French is the oﬃcial language, English is widely spoken in tourist \nareas. Learning a few basic French phrases can enhance your travel experience.",
+                "importance_rank": 2
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 6,
+                "refined_text": "Culinary Experiences \nIn addition to dining at top restaurants, there are several culinary experiences you should \nconsider: \n• \nCooking Classes: Many towns and cities in the South of France oﬀer cooking classes \nwhere you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and \ntarte tropézienne. These classes are a great way to immerse yourself in the local \nculture and gain hands-on experience with regional recipes. Some classes even \ninclude a visit to a local market to shop for fresh ingredients. \n• \nFood Markets: Visit local markets such as the Cours Saleya Market in Nice or the \nMarché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These \nmarkets are a feast for the senses, with stalls overflowing with colorful fruits and \nvegetables, fragrant herbs, and artisanal products. Take the time to chat with the \nvendors and learn about the local specialties. \n• \nWine Tours: The South of France is renowned for its wine regions, including Provence \nand Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about \nthe winemaking process. Many wineries oﬀer guided tours and tastings, giving you the \nopportunity to sample a variety of wines and discover new favorites. Don't miss the \nchance to try rosé from Provence, which is famous for its light, refreshing flavor. \n• \nOlive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn \nabout olive oil production and enjoy a tasting session. You'll have the chance to \nsample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. \nMany olive groves also produce other products like tapenade and olive soap, which \nmake great souvenirs. \n• \nTruﬄe Hunting: The South of France is known for its truﬄes, particularly the black \ntruﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of \nsearching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a \nknowledgeable guide who will teach you about the truﬄe's history and culinary uses. \nAfter the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds. \n• \nFarm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-\ntable philosophy, sourcing their ingredients from local farms and producers. Look for \nrestaurants that highlight seasonal, locally grown produce and sustainably raised \nmeats. Dining at a farm-to-table restaurant is a wonderful way to support local \nagriculture and enjoy the freshest ingredients available.",
+                "importance_rank": 3
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 28,
+                "refined_text": "5. When the Browse For Folder dialog box appears, navigate to the location you want \nto use and click OK. \n \nStatus indicators appear as PDFMaker generates the individual PDFs, \n6. If you selected Automatically Send Adobe PDF Files By Email, a dialog box appears \nasking for your email profile. Enter the appropriate information and click OK. \nWhen the job has finished, a message appears, telling you that the process was successful. \n \nEmail options for PDF mail merges \nTo \nUse the pop-up menu to select the field or column in the associated data file that contains the \nemail addresses in each individual’s record. \nSubject Line \nType the text that you want to appear in the subject line of each message. \nMessage \nType to add or edit text that you want to appear in the body of the email messages.",
+                "importance_rank": 4
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 12,
+                "refined_text": "Conclusion \nThe South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to \ncaptivate any traveler. From the ancient Roman ruins of Nîmes and Arles to the medieval \nfortresses of Carcassonne and Avignon, each city and town has its own unique story to tell. \nWhether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-\nProvence, or the charming squares of Montpellier, you'll find a wealth of historical treasures \nwaiting to be discovered. Use this guide to plan your journey through the South of France and \nimmerse yourself in the fascinating history of this beautiful region.",
+                "importance_rank": 5
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 8,
+                "refined_text": "Aix-en-Provence: A City of Art and Culture \nHistory \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center \nof art and learning for centuries, attracting artists, writers, and scholars. \nKey Attractions \n• \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \n• \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is \nknown for its beautiful cloister and triptych by Nicolas Froment. \n• \nHôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant \nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nHôtel de Ville is a lively spot, often hosting markets and events. \n• \nAtelier Cézanne: The studio of Paul Cézanne, one of the most famous painters \nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where \nCézanne created many of his masterpieces and gain insight into his artistic process. \nArtistic Heritage \n• \nWalking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain \ndes Peintres and the Bibémus Quarry. \n• \nLocal Markets: Visit the city's famous markets, such as the flower market at Place de \nl'Hôtel de Ville or the food market at Place Richelme. \nCultural Highlights \nAix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and \nmusic venues. The city hosts several festivals throughout the year, including the Festival d'Aix-\nen-Provence, which features opera and classical music performances. Aix-en-Provence's \ncuisine is also a highlight, with local specialties such as calissons (almond-shaped candies) \nand Provençal dishes made with fresh, local ingredients.",
+                "importance_rank": 6
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 9,
+                "refined_text": "Aix-en-Provence: A City of Art and Culture \nAix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is \nreflected in its beautiful buildings and lively atmosphere. \nKey Historical Sites in Aix-en-Provence \n• \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \n• \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is \nknown for its beautiful cloister and triptych by Nicolas Froment. \n• \nHôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant \nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nHôtel de Ville is a lively spot, often hosting markets and events. \n• \nAtelier Cézanne: The studio of Paul Cézanne, one of the most famous painters \nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where \nCézanne created many of his masterpieces and gain insight into his artistic process. \n• \nThermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to \nits thermal springs, which are still in use today at the Thermes Sextius. \n• \nFestival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most \nprestigious opera festivals in Europe.",
+                "importance_rank": 7
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 1,
+                "refined_text": "A Historical Journey Through the South of France \nIntroduction \nThe South of France, renowned for its picturesque landscapes, charming villages, and \nstunning coastline, is also steeped in history. From ancient Roman ruins to medieval \nfortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past. \nThis guide will take you through the histories of major cities, famous historical sites, and other \npoints of interest to help you plan an enriching and unforgettable trip.",
+                "importance_rank": 8
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 7,
+                "refined_text": "• \nCheese Tasting: The South of France is home to a variety of delicious cheeses, \nincluding Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a \nfarm to sample these cheeses and learn about their production. Many cheese \nproducers oﬀer tours and tastings, giving you the opportunity to discover the unique \nflavors and textures of the region's cheeses. \n• \nPastry Workshops: French pastries are renowned worldwide, and the South of France \nis no exception. Join a pastry workshop to learn how to make classic French pastries \nlike croissants, éclairs, and macarons. These workshops are a fun and interactive way \nto improve your baking skills and take home some delicious treats.",
+                "importance_rank": 9
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 25,
+                "refined_text": "Note:  \nFor PDF Portfolios of email converted or migrated in Acrobat 8 or later, only new messages—\nthat is, messages that are not already part of the PDF Portfolio—are appended. \n \nConvert email folders to a new PDF \nPDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the \nfolders at the beginning of the process because you can select them in a dialog box that \nappears automatically. \n1. Do one of the following: \n• \n(Outlook) Choose Acrobat > Selected Folders > Create New PDF. \n• \n(Lotus Notes) Choose Actions > Convert Selected Folder(s) To Adobe PDF. \n2. In the Convert Folder(s) To PDF dialog box, select the folders. Then select or deselect \nthe Convert This Folder And All Sub Folders option. \n3. In the Save Adobe PDF File As, select a location and name for the PDF Portfolio. \nWhen the conversion is complete, the new PDF opens in Acrobat.",
+                "importance_rank": 10
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 9,
+                "refined_text": "the handle to resize the text block. \n \nAdd or edit lists \nYou can add items to a numbered or bulleted list, create list items, convert a paragraph to a \nlist item, and conversely. You can also change list types. \n1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.  \n2. To add or remove items from a numbered or bulleted list: \n• Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in Microsoft® Office. For example, \npress Enter at the end of a list item to insert a new row. Press Backspace to \nremove the new row and position the cursor back to the end of the previous \nlist item. \nTo create a numbered or bulleted list: \n1. Place the cursor in the document at the location where you want to add a list. \n2. Choose the appropriate list type under Format Text. \nTo convert an existing paragraph to a list item: \n• \nPlace the cursor in the paragraph, and then choose the appropriate list type \nunder Format Text. \nTo convert an existing list item to a paragraph: \n1. Select all items in the list. The appropriate list type is highlighted under Format Text. \n2. Click the highlighted list type. \nTo convert from one list type to another: \n1. Place the cursor in the list item or select all items. \n2. Choose the appropriate list type under Format Text. \n \nChange font color \n1. Select Edit in the global bar.",
+                "importance_rank": 11
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 4,
+                "refined_text": "Must-Visit Restaurants \nTo truly experience the culinary delights of the South of France, here are some restaurants \nyou should consider visiting: \n• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald \nPassedat is known for his innovative approach to seafood, creating dishes that are \nboth visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs \noverlooking the sea adds to the overall dining experience. \n• \nLa Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Provençal cuisine with breathtaking views of the French \nRiviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making \nit the perfect spot for a romantic dinner. The menu features dishes that highlight the \nregion's fresh, seasonal ingredients. \n• \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a \nunique dining experience with a focus on fresh, local ingredients and innovative \ndishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with \nmany ingredients sourced from the restaurant's own gardens. The menu changes with \nthe seasons, ensuring that each visit is a new and exciting experience. \n• \nChez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and \ndelicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved \ninstitution in Nice. The restaurant's simple, no-frills approach allows the quality of the \nSocca to shine through. \n• \nL'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its \ncreative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes \nare a feast for the senses, combining bold flavors with artistic presentation. The \nrestaurant's tasting menu oﬀers a journey through the flavors of Provence, with each \ncourse showcasing the region's finest ingredients. \n• \nLa Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a \nsophisticated menu that highlights the flavors of the region. The restaurant is located \nin a historic building in the heart of Saint-Émilion, a town known for its world-class \nwines. The menu features dishes that pair beautifully with the local wines, creating a \ntruly memorable dining experience.",
+                "importance_rank": 12
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 1,
+                "refined_text": "Comprehensive Guide to Major Cities in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, Mediterranean coastline, and rich \ncultural heritage, is home to some of the most beautiful and historically significant cities in the \ncountry. This guide provides an in-depth look at the major cities in the South of France, \ndetailing their history, key attractions, cultural highlights, and unique characteristics. Whether \nyou're planning a visit or simply want to learn more about this enchanting region, this guide \nwill oﬀer valuable insights into each city's charm and allure.",
+                "importance_rank": 13
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 10,
+                "refined_text": "Montpellier: A University City with Medieval Charm \nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. \nKey Historical Sites in Montpellier \n• \nPlace de la Comédie: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to \nstart exploring the city. \n• \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its \nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. \n• \nPromenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city \nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower. \n• \nMusée Fabre: One of the most important art museums in France, the Musée Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts. \n• \nUniversity of Montpellier: Founded in 1289, it is one of the oldest universities in the \nworld and has been a center of learning and culture for centuries. \n• \nJardin des Plantes: Established in 1593, it is the oldest botanical garden in France and \nwas created for the study of medicinal plants.",
+                "importance_rank": 14
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 14,
+                "refined_text": "Conclusion \nThe South of France is home to a diverse array of cities, each with its own unique history, \nculture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval \nfortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the \nregion. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of \nAix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical \ntreasures and cultural experiences waiting to be discovered. Use this guide to plan your \njourney through the South of France and immerse yourself in the fascinating history and \nculture of this beautiful region.",
+                "importance_rank": 15
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 11,
+                "refined_text": "Specifies which Word headings and styles are converted to PDF bookmarks. \nElement \nLists the names of all available Word headings and styles. The icons \nfor Headings \n and Styles  indicate the element types. \nType \nAlso indicates whether the element is a heading or style in the Word document. \nBookmark \nDisplays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking \nan individual Bookmark option changes the selection status for that element. \nLevel \nSpecifies where the element fits in the hierarchy structure of the PDF Bookmarks panel. \nClicking an individual Level number opens a menu that you can use to change the value. \nNote:  \nWhen some but not all of the available Word headings and styles are selected for conversion to \nPDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all \nelements of the type are selected, a check mark appears. If only some of the elements of that \ntype are selected, a colored square appears. Otherwise, the check box is empty.",
+                "importance_rank": 16
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 11,
+                "refined_text": "Perpignan: A Blend of French and Catalan Cultures \nHistory \nPerpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history \nreflected in its architecture and culture. Perpignan's strategic location has made it a \ncrossroads of cultures and traditions. \nKey Attractions \n• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was \nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the \nsurrounding countryside. \n• \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell \ntower. \n• \nCastillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of \nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and \nculture of the region. \n• \nLoge de Mer: This historic building, originally a maritime trading exchange, dates back \nto the 14th century. It is located in the heart of the old town and is a testament to \nPerpignan's rich mercantile history. \nCultural Fusion \n• \nFestivals: Emphasize the blend of French and Catalan cultures in the city's festivals, \ncuisine, and traditions. \n• \nBeaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or \nexploring the Pyrenees mountains. \nCultural Highlights \nPerpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan \ntraditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in \nvarious genres. Perpignan's cuisine is also notable, with local specialties such as cargolade \n(grilled snails) and wines from the Roussillon region.",
+                "importance_rank": 17
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 11,
+                "refined_text": "Perpignan: A Blend of French and Catalan Cultures \nPerpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history \nreflected in its architecture and culture. \nKey Historical Sites in Perpignan \n• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was \nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the \nsurrounding countryside. \n• \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell \ntower. \n• \nCastillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of \nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and \nculture of the region. \n• \nLoge de Mer: This historic building, originally a maritime trading exchange, dates back \nto the 14th century. It is located in the heart of the old town and is a testament to \nPerpignan's rich mercantile history. \n• \nCampo Santo: One of the largest and oldest cloister cemeteries in France, dating back \nto the 14th century. \n• \nFestival de Perpignan: An annual photojournalism festival, Visa pour l'Image, held in \nPerpignan, attracts photographers and journalists from around the world.",
+                "importance_rank": 18
+            },
+            {
+                "document": "South of France - History.pdf",
+                "page_number": 3,
+                "refined_text": "Nice: The Jewel of the French Riviera \nNice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a \nRoman colony and has since evolved into a glamorous resort town. \nKey Historical Sites in Nice \n• \nCastle Hill (Colline du Château): This hilltop park oﬀers stunning views of Nice and \nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century. \n• \nPromenade des Anglais: This famous seaside promenade was built in the 19th century \nand named after the English aristocrats who frequented Nice. It's perfect for a leisurely \nstroll along the coast. \n• \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where \nyou can find fresh produce, flowers, and local delicacies. \n• \nRussian Orthodox Cathedral: Built in the early 20th century, this stunning cathedral \nreflects the influence of Russian aristocrats who vacationed in Nice. \n• \nCimiez: An ancient Roman settlement, Cimiez is home to the ruins of a Roman \namphitheater and baths, as well as the Monastery of Cimiez, which oﬀers beautiful \ngardens and a museum dedicated to the painter Henri Matisse3. \n• \nCarnival of Nice: One of the most famous carnivals in France, the Carnival of Nice \ndates back to 1873 and features elaborate parades, floats, and flower battles4.",
+                "importance_rank": 19
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 26,
+                "refined_text": "Set up automatic email archiving \n1. Do one of the following: \n• \n(Outlook) Choose Acrobat > Setup Automatic Archival. \n• \n(Lotus Notes) Choose Actions > Setup Automatic Archival. \n2. On the Automatic Archival tab of the Acrobat PDFMaker dialog box, select Enable \nAutomatic Archival. Then select options for Frequency and the time of day at which \nautomatic archiving occurs. \n3. Select other options, according to your needs: \n  \nMaintain Log Of Archival \nCreates a record of each archiving session. \n  \nChoose File \nSpecifies the name and location of the archiving log. \n  \nEmbed Index For Faster Search \nCreates an index that you can search to find specific words or characters instead of \nhaving to search each individual document. \n4. Click Add, and select the email folders and subfolders. Then select or deselect \nthe Convert This Folder And All Sub Folders option, as preferred, and click OK. \n5. In the Save PDF Archive File As dialog box, select a name and location for the \narchived email PDF. Then click Open. \n6. Review the settings and the archive folder names listed in the Acrobat \nPDFMaker dialog box, and do any of the following: \n• \nTo add other email folders to the list, click Add and select the folder. \n• \nTo remove folders from the list, select the folders and click Delete. \n• \nTo change an archive file, select any folder name from the list, click Change \nArchive File, and specify the name and location. \n• \nTo start archiving email immediately, click Run Archival Now.",
+                "importance_rank": 20
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "input_documents": [
+                "input/documents/Dinner Ideas - Mains_1.pdf",
+                "input/documents/Dinner Ideas - Mains_2.pdf",
+                "input/documents/Dinner Ideas - Mains_3.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_1.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_2.pdf",
+                "input/documents/Learn Acrobat - Edit_1.pdf",
+                "input/documents/Learn Acrobat - Edit_2.pdf",
+                "input/documents/South of France - Cities.pdf",
+                "input/documents/South of France - Cuisine.pdf",
+                "input/documents/South of France - History.pdf"
+            ],
+            "persona": "HR professional",
+            "job_to_be_done": {
+                "task": "Create and manage fillable forms for onboarding and compliance."
+            },
+            "processing_timestamp": "2025-07-27T19:21:00Z"
+        },
+        "extracted_section": [
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 28,
+                "section_title": "Relevant Paragraph (Score: 0.22)",
+                "importance_rank": 1
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 21,
+                "section_title": "Relevant Paragraph (Score: 0.18)",
+                "importance_rank": 2
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 27,
+                "section_title": "Relevant Paragraph (Score: 0.16)",
+                "importance_rank": 3
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 2,
+                "section_title": "Relevant Paragraph (Score: 0.15)",
+                "importance_rank": 4
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.15)",
+                "importance_rank": 5
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 9,
+                "section_title": "Relevant Paragraph (Score: 0.14)",
+                "importance_rank": 6
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.14)",
+                "importance_rank": 7
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 8
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 7,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 9
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 19,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 10
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 8,
+                "section_title": "Relevant Paragraph (Score: 0.12)",
+                "importance_rank": 11
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 13,
+                "section_title": "Relevant Paragraph (Score: 0.11)",
+                "importance_rank": 12
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 22,
+                "section_title": "Relevant Paragraph (Score: 0.11)",
+                "importance_rank": 13
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.11)",
+                "importance_rank": 14
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 9,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 15
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 25,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 16
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 2,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 17
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 20,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 18
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 12,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 19
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 4,
+                "section_title": "Relevant Paragraph (Score: 0.10)",
+                "importance_rank": 20
+            }
+        ],
+        "sub-section_analysis": [
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 28,
+                "refined_text": "5. When the Browse For Folder dialog box appears, navigate to the location you want \nto use and click OK. \n \nStatus indicators appear as PDFMaker generates the individual PDFs, \n6. If you selected Automatically Send Adobe PDF Files By Email, a dialog box appears \nasking for your email profile. Enter the appropriate information and click OK. \nWhen the job has finished, a message appears, telling you that the process was successful. \n \nEmail options for PDF mail merges \nTo \nUse the pop-up menu to select the field or column in the associated data file that contains the \nemail addresses in each individual’s record. \nSubject Line \nType the text that you want to appear in the subject line of each message. \nMessage \nType to add or edit text that you want to appear in the body of the email messages.",
+                "importance_rank": 1
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 21,
+                "refined_text": "The Advanced Settings button opens the Adobe PDF Settings dialog box, which contains many \nadditional conversion options. These conversion settings apply to all Acrobat features that \ncreate PDFs, such as Acrobat Distiller, PDFMaker, and the Acrobat application itself. \nPDF/A Compliance \nCreates the PDF so that it conforms to the selected ISO standard for long-term preservation of \nelectronic documents. \n \nSecurity tab of the Adobe PDFMaker preferences \nThe settings available for PDFMaker depend on the application in which you’re using \nPDFMaker. \nRequire A Password To Open The Document \nWhen selected, makes the Document Open Password option available, where you enter a \npassword that users must use to open the document. \nRestrict Editing And Printing Of The Document \nWhen selected, makes the other Permissions options available. \nChange Permissions Password \nSpecifies a password you set that users must use in order to do any allowable printing or \nediting. \nPrinting Allowed \nSpecifies whether users who use the Permissions Password can print the document and at \nwhat resolution. \nChanges Allowed \nSpecifies what changes users who use the Permissions Password can make. \nEnable Copying Of Text, Images, And Other Contents \nPrevents or allows users from copying from the PDF. \nEnable Text Access For Screen Reader Devices For The Visually Impaired \nPrevents or allows screen reader devices to read text. (Selected by default.) \nEnable Plaintext Metadata \nSpecifies whether the search engine can read the document metadata. Available only when the \nPDF-compatibility is set to Acrobat 6.0 (PDF 1.5) or later.",
+                "importance_rank": 2
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 27,
+                "refined_text": "Create PDFs from Word mail merges \nMail merges from Word generate documents like form letters—for one common example—\nthat are personalized with information like the names and addresses of the recipients. With \nAcrobat PDFMaker, you can save steps by using a Word mail merge document and \ncorresponding data file to output mail merges directly to PDF. You can even set up PDFMaker to \nattach those PDFs to email messages that are generated during the PDF-creation process. \nNote:  \nFor information on setting up files for the Word Mail Merge feature, see Microsoft Office Word \nHelp. \n1. In Microsoft Word, open the template that you have created as the basis of your mail \nmerge, or create the file using the Word Mail Merge toolbar and Mail Merge wizard, \nas needed. \n  \nNote: Do not complete the mail merge in Word. Instead, set up and preview the mail \nmerge as usual, so that you can verify that the merge will work correctly. \n2. Do one of the following: \n• \nChoose Acrobat > Mail Merge. \n• \nClick the Mail Merge To Adobe PDF button on the Mail Merge toolbar (View > \nToolbars > Mail Merge). \n3. In the Acrobat PDFMaker - Mail Merge dialog box, select the options you want: \n  \n• \nTo specify which records in the data file will be imported into the merged \nfiles, select All or Current, or enter a range of pages by typing in \nthe From and To boxes. \n• \nTo name the PDF that will be created, type in the Specify PDF File Name box. \n  \nNote: The PDF will be named using this text plus a series of numbers. For example, if \nyou type JulyLetter in the Specify PDF File Name box, the mail-merged PDFs \nmight appear as JulyLetter_0000123, JulyLetter_0000124, JulyLetter_0000125, and \nso forth. \n \n4. For Automatically Send Adobe PDF Files By Email, do one of the following: \n• \nTo create and save merged PDFs for printing or sending later in email, leave \nthe option deselected, and click OK. \n• \nTo create merged PDFs and attach each one to an email message to the \nappropriate recipient, select this check box, and fill in the other Email options.",
+                "importance_rank": 3
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 2,
+                "refined_text": "Edit text in a PDF \nOpen the PDF you want to edit in Acrobat, and then select Edit in the global bar. \n \nThe PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a \nscanned document, Acrobat automatically runs OCR to make the text and images editable. \n \n \nThe Edit panel includes options to modify the page, add content, redact a PDF, and convert \nvarious documents to PDF forms. You can use the options in the Edit panel to replace, edit, or \nadd text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, \nadd superscripts or subscripts, and resize text or paragraphs.",
+                "importance_rank": 4
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 6,
+                "refined_text": "Application-specific PDFMaker settings \nSometimes the conversion settings in one PDFMaker-enabled application are different from the \nsettings in a different application. \nSome PDFMaker settings are common to several or most applications. Some options are unique \nto a specific application. \n \nSettings tab options available from within most applications \nThe following settings appear on the Settings tab available from within most PDFMaker-\nenabled applications. \nAttach Source File \nIncludes the document being converted as an attachment to the PDF. \nCreate Bookmarks \nConverts certain elements in original Office documents to PDF bookmarks: Word headings, \nExcel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on \nthe Bookmarks tab of the Conversion Settings dialog box. \nAdd Links \nIncludes active links and hypertext in the PDF. \nNote:  \nIf this option is deselected, but the recipient of the PDF has the create Links From URLs \npreference selected, URLs in the PDF are still active. \nEnable Accessibility And Reflow With Tagged Adobe PDF \nEmbeds tags in the PDF. \n \nExcel-specific options on the Settings tab \nConvert Comments \nConverts user-created Excel comments to notes and lists them in the Acrobat Comments panel. \nActual Size \nUses actual size specified in the worksheet. Worksheets are not resized. \nFit Worksheet To A Single Page",
+                "importance_rank": 5
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 9,
+                "refined_text": "the handle to resize the text block. \n \nAdd or edit lists \nYou can add items to a numbered or bulleted list, create list items, convert a paragraph to a \nlist item, and conversely. You can also change list types. \n1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.  \n2. To add or remove items from a numbered or bulleted list: \n• Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in Microsoft® Office. For example, \npress Enter at the end of a list item to insert a new row. Press Backspace to \nremove the new row and position the cursor back to the end of the previous \nlist item. \nTo create a numbered or bulleted list: \n1. Place the cursor in the document at the location where you want to add a list. \n2. Choose the appropriate list type under Format Text. \nTo convert an existing paragraph to a list item: \n• \nPlace the cursor in the paragraph, and then choose the appropriate list type \nunder Format Text. \nTo convert an existing list item to a paragraph: \n1. Select all items in the list. The appropriate list type is highlighted under Format Text. \n2. Click the highlighted list type. \nTo convert from one list type to another: \n1. Place the cursor in the list item or select all items. \n2. Choose the appropriate list type under Format Text. \n \nChange font color \n1. Select Edit in the global bar.",
+                "importance_rank": 6
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 11,
+                "refined_text": "Specifies which Word headings and styles are converted to PDF bookmarks. \nElement \nLists the names of all available Word headings and styles. The icons \nfor Headings \n and Styles  indicate the element types. \nType \nAlso indicates whether the element is a heading or style in the Word document. \nBookmark \nDisplays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking \nan individual Bookmark option changes the selection status for that element. \nLevel \nSpecifies where the element fits in the hierarchy structure of the PDF Bookmarks panel. \nClicking an individual Level number opens a menu that you can use to change the value. \nNote:  \nWhen some but not all of the available Word headings and styles are selected for conversion to \nPDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all \nelements of the type are selected, a check mark appears. If only some of the elements of that \ntype are selected, a colored square appears. Otherwise, the check box is empty.",
+                "importance_rank": 7
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 6,
+                "refined_text": "commercial printing requires diﬀerent settings than a PDF intended only for onscreen viewing \nand quick downloading over the Internet. \nOnce selected, these settings apply across PDFMaker, Acrobat, and Acrobat Distiller. \nHowever, some settings are limited to specific contexts or file types. For example, PDFMaker \noptions can vary among the diﬀerent types of Microsoft Oﬃce applications. \nFor convenience, you can select one of the conversion presets available in Acrobat. You can \nalso create, define, save, and reuse custom presets that are uniquely suited to your purposes. \nFor scanned documents, you can choose from Autodetect Color Mode or several scanning \npresets that are optimized for scanning documents and images in color or black and white. \nYou can modify these presets or use your own custom scanning settings. \nThere are various ways to create a PDF file using Acrobat. You can generate a PDF quickly \nusing the convert to PDF tool, menu commands, dragging-and-dropping files onto the \nAcrobat application icon, or converting clipboard data.",
+                "importance_rank": 8
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 7,
+                "refined_text": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same \npage of the PDF. \nFit To Paper Width \nAdjusts the width of each worksheet so that all the columns on that worksheet appear on one \npage in the PDF. \nPrompt For Selecting Excel Sheets \nOpens a dialog box at the beginning of the file conversion process. In this dialog box, you can \nspecify which worksheets are included in the PDF and the order in which the sheets appear in \nthe PDF. \n \nPowerPoint-specific options on the Settings tab \nPreserve Slide Transitions \nConverts PowerPoint slide transition effects to PDF transition effects. \nConvert Hidden Slides To PDF Pages \nConverts any PowerPoint slides that are not seen in the usual playing of the presentation to \nPDF pages. \nConvert Speaker Notes \nConverts any speaker notes for the PowerPoint presentation into Text notes in the PDF. \n \nEmail-specific options on the Settings tab \nThe following options appear when you open the PDFMaker settings from within Microsoft \nOutlook or Lotus Notes. \nCompatibility \nSets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7 \nADBE-3) to include all the latest features and functionality. If you’re creating PDFs that are \ndistributed widely, choose an earlier level to ensure that all users can view and print the \ndocument. \nAttachments \nIndicates whether all files attached to email messages are included in the PDF. \nOutput Adobe PDF Portfolio When Creating A New PDF File \nWhen selected, always converts individual messages as component files of a PDF Portfolio. \nWhen deselected, merges individual messages as separate pages of a PDF.",
+                "importance_rank": 9
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 19,
+                "refined_text": "4. If prompted, enter your user name and password to log in to the Adobe \nLiveCycleRights Management Server. \n \nCreate a PDF and send it for review \n1. Open the file in the application used to create it. \n2. Click the Convert To Adobe PDF And Send For Review button \n on the Acrobat \nPDFMaker toolbar, or (if available) choose Adobe PDF > Convert To Adobe PDF And \nSend For Review. \n3. When the Identity Setup dialog box appears, enter the appropriate information \nabout yourself, and click Complete. \n4. Follow the directions in the wizard that appears, as described in Start an email-based \nreview. \n \nCreate a PDF and run an action \n1. Open the file in the application used to create it. \n2. Click the Convert To Adobe PDF And Run Action button on the Acrobat PDFMaker \ntoolbar, or (if available) choose Adobe PDF > Convert To Adobe PDF And Run Action. \n  \nFor Microsoft Office 2010 applications such as Word, Excel, and PowerPoint, click \nthe Create PDF And Run Action button on the Acrobat ribbon. \n3. Click an action to from the button menu, and follow the onscreen prompts to save \nthe files. \n4. The PDF opens in Acrobat. Click Start in the right-hand pane to process the file.",
+                "importance_rank": 10
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 8,
+                "refined_text": "• \nSelect the hamburger menu \n > Create > PDF from File (Windows), \nor File > Create > PDF from File (macOS). \n2. In the Open dialog box, select the ﬁle that you want to convert. You can browse all ﬁle \ntypes or select a speciﬁc type from the Files Of Type drop-down menu. \n \n3. Optionally, select Advanced settings to change the conversion options if you're \nconverting an image file to PDF. The options available vary depending on the file type. \n  \nNote:  \nThe Advanced settings button is unavailable if you choose All Files as the file type or \nif no conversion settings are available for the selected file type. (For example, the \nAdvanced settings button is unavailable for Microsoft Word and Microsoft Excel files.) \n \n4. Select Create to convert the ﬁle to a PDF. \n \nDepending on the type of ﬁle being converted, the authoring applicaƟon opens \nautomaƟcally, or a progress dialog box appears. If the ﬁle is in an unsupported format, a \nmessage appears, telling you that the ﬁle cannot be converted to PDF. \n \n5. When the new PDF opens, choose the hamburger menu \n  > Save or Save \nAs (Windows), File > Save or File > Save As (macOS), and then select a name and \nlocation for the PDF.",
+                "importance_rank": 11
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 13,
+                "refined_text": "Using Create PDF cloud service for PDF \nconversion \nAcrobat provides an option to use Adobe Create PDF cloud service in addition to a local \nconversion to convert Microsoft Word documents to PDFs. The created PDFs are high-quality \nand provide exceptional visual fidelity. They are well-tagged for better accessibility. They also \ninclude link recognition so that hyperlinks, internal document links, and tables of contents are \ncreated as live links.",
+                "importance_rank": 12
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 22,
+                "refined_text": "Convert Microsoft Word, PowerPoint, and \nExcel files to PDF \nWhen creating a PDF from Microsoft Word, PowerPoint, or Excel, you can set conversion \noptions for the current file. You can also select a range of content in the file to convert. The \nconversion options that you can set in the following steps are some of the most commonly used \nsettings from the Acrobat PDFMaker dialog box. Any changes you make to the conversion \noptions apply to the current conversion only. \n \nConvert Excel files to PDF \n1. Open a file in Excel. \n2. Optionally, select the cells to convert. \n3. From the Acrobat ribbon, select one of the Create options. \n4. In the Acrobat PDFMaker dialog box, select a Conversion Range, then \nchoose Convert To PDF. \n5. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF. \n6. Optionally, select the Options button to change the conversion settings. \n7. Select Save to create the PDF. \n \nConvert Word and PowerPoint files to PDF \n1. Open a file in Word or PowerPoint. \n2. Optionally, select objects and text (Word) or slides (PowerPoint), as needed. \n3. (Office 2010) From the Acrobat ribbon, select Create PDF, Create And Attach to Email, \nor Create And Send For Review. \n4. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF. \n5. Optionally, click the Options button to change the conversion settings. \n6. Select a Page Range (Word) or Slide Range (PowerPoint). The Selection option is \navailable only if you have selected content in the file. \n7. Click OK, then click Save to create the PDF.",
+                "importance_rank": 13
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 11,
+                "refined_text": "Create a blank PDF \nYou can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. \nThis process can be useful for creating a one-page PDF. For longer, more complex, or heavily \nformatted documents, it’s better to create the source document in an application that offers \nmore layout and formatting options, such as Adobe InDesign or Microsoft Word. \nDo any of the following: \n• \nIn Acrobat, select Create from the global bar. \n \nThe Create a PDF tool opens. On the leŌ rail, select Blank page, and then select Create. \n \n• \nSelect the hamburger menu \n > Create > Blank Page (Windows), \nor File > Create > Blank Page (macOS). \nAcrobat creates a blank page PDF.",
+                "importance_rank": 14
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 9,
+                "refined_text": "Exclude Model Space \n(Available only when Convert All Layouts Without Prompting is selected from Choose Layout \nOption.) When selected, all layouts except the model space are included in the PDF. \nChoose Layer Option \nSpecifies whether All Layers, Selected Layers, or No Layers are included as layers in the PDF. \n \nVisio-specific options on the Settings tab (Acrobat Pro) \nThe following options appear when you open the PDFMaker settings from within Microsoft \nVisio. \nInclude Visio Custom Properties As Object Data In The Adobe PDF \nIndicates whether custom properties of the Visio image are included as object data in the new \nPDF. \nExclude Visio Objects With No Custom Properties \nIndicates whether the new PDF excludes Visio objects without custom properties. \nConvert Comments To Adobe PDF Comments \nIndicates whether the comments in the Visio file are converted to PDF comments in the new \nPDF. \nAlways Flatten Layers In Adobe PDF \nSpecifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing, \nbut doesn’t contain any layer information. All shapes in the Visio drawing are converted, \nregardless of their protection or behavior, and shape custom properties can be converted to \nPDF object data. \nOpen Layers Pane When Viewed In Acrobat \nShows the layers structure when a PDF is opened in Acrobat. \n \nWord tab settings (Microsoft Word) \nConvert Displayed Comments To Notes In Adobe PDF \nChanges any Word comment entries to PDF comments. If the currently open Word document \ncontains comments, more options appear in the Comments list on this tab: \nReviewer \nLists the names of reviewers who have entered comments in the current Word document.",
+                "importance_rank": 15
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 25,
+                "refined_text": "Note:  \nFor PDF Portfolios of email converted or migrated in Acrobat 8 or later, only new messages—\nthat is, messages that are not already part of the PDF Portfolio—are appended. \n \nConvert email folders to a new PDF \nPDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the \nfolders at the beginning of the process because you can select them in a dialog box that \nappears automatically. \n1. Do one of the following: \n• \n(Outlook) Choose Acrobat > Selected Folders > Create New PDF. \n• \n(Lotus Notes) Choose Actions > Convert Selected Folder(s) To Adobe PDF. \n2. In the Convert Folder(s) To PDF dialog box, select the folders. Then select or deselect \nthe Convert This Folder And All Sub Folders option. \n3. In the Save Adobe PDF File As, select a location and name for the PDF Portfolio. \nWhen the conversion is complete, the new PDF opens in Acrobat.",
+                "importance_rank": 16
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_2.pdf",
+                "page_number": 2,
+                "refined_text": "Note: Visio layers that were selected for conversion and that have Visio settings for \nvisible, printable, or lock are converted to PDF layers; the visible and printable \nproperties are included in the resulting PDF layers. If the Visio file contains a \nbackground page, header, or footer, the PDF file automatically has PDF layers named \nfor those items.",
+                "importance_rank": 17
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 20,
+                "refined_text": "View PDFMaker conversion settings \nPDFMaker conversion settings vary according to file types. For example, the options available \nfor PowerPoint files aren’t the same as the options available for Outlook files. Once you’ve \nselected conversion settings, those choices apply to all subsequent PDFs you create from that \nfile type. It’s a good idea to review the settings occasionally. \n1. Open a PDFMaker-enabled application (such as Word or Excel). \n2. Do one of the following: \n  \n• \n(Lotus Notes) Choose Actions > Change Adobe PDF Conversion Settings. \n• \n(Office 2010 applications) In the Acrobat or Adobe PDF ribbon, \nclick Preferences. \n• \n(All other applications) Choose Adobe PDF > Change Conversion Settings. \n3. (Optional) To revert to the original default settings, click Restore Defaults on \nthe Settings tab. \n \nSettings tab of the Adobe PDFMaker preferences \nThe settings available for PDFMaker depend on the application in which you’re using \nPDFMaker. \nConversion Settings \nSpecifies the standard by which the PDF will be optimized. When you choose an item in the \nmenu, a description of that preset appears immediately below it. \nView Adobe PDF Result \nOpens the converted document directly into Acrobat. (Exception: when you choose Convert To \nAdobe PDF And Email.) \nPrompt For Adobe PDF File Name \nLets you enter a custom filename for the resulting PDF. Deselect this option to save the file in \nthe same folder as the source file, using the same name but with a .pdf extension. \nConvert Document Information \nAdds document information from the Properties dialog box of the source file. This setting \noverrides the printer preferences and settings in the Advanced panel of the Adobe PDF \nSettings dialog box. \nNote:",
+                "importance_rank": 18
+            },
+            {
+                "document": "Learn Acrobat - Create and Convert_1.pdf",
+                "page_number": 12,
+                "refined_text": "Note:  \nTo add a blank page to an existing PDF, open the PDF and then choose Edit > Organize \npages > Insert > Blank page. \n \nCreate multiple PDFs from multiple files  \nYou can create multiple PDFs from multiple native files, including files of different supported \nformats, in one operation. This method is useful when you must convert a large number of files \nto PDF. \nNote: When you use this method, Acrobat applies the most recently used conversion settings \nwithout offering you access to those settings. If you want to adjust the conversion settings, do \nso before using this method. \n1. In Acrobat, select Create from the global bar. \n2. The Create a PDF tool opens. On the leŌ rail, select MulƟple ﬁles > Create mulƟple \nPDF ﬁles, and then select Next.  \n3. Choose Add Files > Add Files or Add Folders, and then select the ﬁles or folder. \n4. Select OK. The Output opƟons dialog box appears. \n5. In the Output OpƟons dialog box, specify your target folder and ﬁlename \npreferences, and then select OK. \nUsing PDFMaker within an authoring application is a simple, one-click procedure. It involves \nclicking an Acrobat PDFMaker toolbar button or choosing a command on the Adobe PDF menu.  \n \nAbout Acrobat PDFMaker \nPDFMaker is an Acrobat feature that operates within many business applications, such as \nMicrosoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat, \nPDFMaker controls appear in the work area of the authoring application. \nNote:  Some PDFMaker features are not available in certain versions of the authoring \napplications. For a comparison chart, see Compatible web browsers and PDFMaker \napplications | Acrobat, Reader.",
+                "importance_rank": 19
+            },
+            {
+                "document": "Learn Acrobat - Edit_1.pdf",
+                "page_number": 4,
+                "refined_text": "Change, replace, or delete text \nWhen you edit text, the text in the paragraph reflows within its text box to accommodate the \nchanges. Each text box is independent, and inserting text in one text block doesn’t push down \nan adjacent text box or reflow to the next page.   \n1. Select Edit in the global bar.  \n2. Select the text that you want to edit. The text-box turns blue upon selection, and a \nrotation handle appears at the top of the selected text-box.  \n \n3. Edit the text by doing one of the following: \n1. Type new text to replace the selected text, or press Delete to remove it. \n2. To rotate the text box, use the rotation handle at the top of the selected text \nbox. \n3. Manage list items using the list controls (bulleted and numbered) in the left \nFormat panel. You can create lists and, conversely, convert a list item to a \nparagraph or change list types. \n4. Select a font, font size, or other formatting options in the left Format panel. You \ncan also try the advanced format options, such as line spacing, character \nspacing, horizontal scaling, stroke width, and color.",
+                "importance_rank": 20
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "input_documents": [
+                "input/documents/Dinner Ideas - Mains_1.pdf",
+                "input/documents/Dinner Ideas - Mains_2.pdf",
+                "input/documents/Dinner Ideas - Mains_3.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_1.pdf",
+                "input/documents/Learn Acrobat - Create and Convert_2.pdf",
+                "input/documents/Learn Acrobat - Edit_1.pdf",
+                "input/documents/Learn Acrobat - Edit_2.pdf",
+                "input/documents/South of France - Cities.pdf",
+                "input/documents/South of France - Cuisine.pdf",
+                "input/documents/South of France - History.pdf"
+            ],
+            "persona": "Food Contractor",
+            "job_to_be_done": {
+                "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+            },
+            "processing_timestamp": "2025-07-27T19:21:07Z"
+        },
+        "extracted_section": [
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 2,
+                "section_title": "Relevant Paragraph (Score: 0.32)",
+                "importance_rank": 1
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 7,
+                "section_title": "Relevant Paragraph (Score: 0.31)",
+                "importance_rank": 2
+            },
+            {
+                "document": "Dinner Ideas - Mains_3.pdf",
+                "page_number": 9,
+                "section_title": "Relevant Paragraph (Score: 0.31)",
+                "importance_rank": 3
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 7,
+                "section_title": "Relevant Paragraph (Score: 0.30)",
+                "importance_rank": 4
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 5,
+                "section_title": "Relevant Paragraph (Score: 0.30)",
+                "importance_rank": 5
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 12,
+                "section_title": "Relevant Paragraph (Score: 0.29)",
+                "importance_rank": 6
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 4,
+                "section_title": "Relevant Paragraph (Score: 0.29)",
+                "importance_rank": 7
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 14,
+                "section_title": "Relevant Paragraph (Score: 0.28)",
+                "importance_rank": 8
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.28)",
+                "importance_rank": 9
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.28)",
+                "importance_rank": 10
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 6,
+                "section_title": "Relevant Paragraph (Score: 0.28)",
+                "importance_rank": 11
+            },
+            {
+                "document": "Dinner Ideas - Mains_3.pdf",
+                "page_number": 2,
+                "section_title": "Relevant Paragraph (Score: 0.27)",
+                "importance_rank": 12
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 11,
+                "section_title": "Relevant Paragraph (Score: 0.27)",
+                "importance_rank": 13
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 5,
+                "section_title": "Relevant Paragraph (Score: 0.27)",
+                "importance_rank": 14
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 7,
+                "section_title": "Relevant Paragraph (Score: 0.27)",
+                "importance_rank": 15
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 3,
+                "section_title": "Relevant Paragraph (Score: 0.26)",
+                "importance_rank": 16
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 3,
+                "section_title": "Relevant Paragraph (Score: 0.26)",
+                "importance_rank": 17
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 8,
+                "section_title": "Relevant Paragraph (Score: 0.26)",
+                "importance_rank": 18
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 4,
+                "section_title": "Relevant Paragraph (Score: 0.25)",
+                "importance_rank": 19
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 15,
+                "section_title": "Relevant Paragraph (Score: 0.25)",
+                "importance_rank": 20
+            }
+        ],
+        "sub-section_analysis": [
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 2,
+                "refined_text": "• \n1/4 cup bacon, chopped \n• \n1/4 cup green onions, sliced \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a pot, bring water to a boil and stir in grits. \n• \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n• \nIn a skillet, cook chopped bacon until crispy, then set aside. \n• \nIn the same skillet, sauté diced onion and minced garlic until softened. \n• \nAdd shrimp and cook until pink and opaque. \n• \nStir in cooked bacon and sliced green onions. \n• \nServe shrimp mixture over grits. \n \n \n \nSpaghetti Carbonara \nIngredients: \n• \n1 pound spaghetti \n• \n4 eggs \n• \n1 cup grated Parmesan cheese \n• \n1/2 cup pancetta, diced \n• \n2 cloves garlic, minced \n• \n1/4 cup heavy cream (optional) \n• \nSalt and pepper to taste \n• \nChopped parsley for garnish \nInstructions: \n• \nCook spaghetti according to package instructions. \n• \nIn a skillet, cook diced pancetta until crispy, then set aside. \n• \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using). \n• \nIn the same skillet, sauté minced garlic until fragrant. \n• \nAdd cooked spaghetti and toss to coat. \n• \nRemove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper. \n• \nGarnish with chopped parsley and serve. \n \n \n \nStuffed Bell Peppers \nIngredients: \n• \n4 bell peppers, tops cut off and seeds removed \n• \n1 pound ground beef \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 cup cooked rice \n• \n1 can (14.5 ounces) diced tomatoes",
+                "importance_rank": 1
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 7,
+                "refined_text": "• \n1/2 cup basil pesto \n• \n1/4 cup cherry tomatoes, halved \n• \n1/4 cup grated Parmesan cheese \n• \n2 tablespoons olive oil \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large skillet, heat olive oil over medium heat. \n• \nAdd zucchini noodles and cook until tender. \n• \nStir in basil pesto and cherry tomatoes. \n• \nSeason with salt and pepper. \n• \nSprinkle with grated Parmesan cheese and serve. \n \n \n \nBeef and Broccoli \nIngredients: \n• \n1 pound beef sirloin, thinly sliced \n• \n2 cups broccoli florets \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1/4 cup soy sauce \n• \n1/4 cup beef broth \n• \n2 tablespoons oyster sauce \n• \n1 tablespoon cornstarch \n• \n2 tablespoons vegetable oil \n• \nCooked rice for serving \nInstructions: \n• \nIn a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. \n• \nIn a large skillet, heat vegetable oil over medium heat. \n• \nCook sliced beef until browned, then set aside. \n• \nIn the same skillet, sauté diced onion and minced garlic until fragrant. \n• \nAdd broccoli florets and stir-fry until tender. \n• \nReturn beef to the skillet and pour sauce over the top. \n• \nCook until sauce is thickened. \n• \nServe over cooked rice. \n \n \n \nChicken Fajitas \nIngredients: \n• \n1 pound chicken breast, sliced \n• \n1 bell pepper, sliced \n• \n1 small onion, sliced \n• \n2 tablespoons fajita seasoning",
+                "importance_rank": 2
+            },
+            {
+                "document": "Dinner Ideas - Mains_3.pdf",
+                "page_number": 9,
+                "refined_text": "• \n1 bell pepper, diced \n• \n1 cup spinach, chopped \n• \n1 jar (24 ounces) marinara sauce \n• \n1 can (15 ounces) ricotta cheese \n• \n1 egg \n• \n1 cup shredded mozzarella cheese \n• \n1/4 cup grated Parmesan cheese \n• \n2 tablespoons olive oil \n• \nSalt and pepper to taste \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper \nuntil tender. Add spinach and cook until wilted. \n• \nIn a bowl, mix ricotta cheese, egg, salt, and pepper. \n• \nIn a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta \nmixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers. \n• \nTop with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese. \n• \nCover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes \nuntil bubbly. \n• \nLet stand for 10 minutes before serving.",
+                "importance_rank": 3
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 7,
+                "refined_text": "• \n8 ounces rice noodles \n• \n1/2 pound shrimp or chicken \n• \n2 eggs \n• \n1 cup bean sprouts \n• \n1/4 cup peanuts, chopped \n• \n2 tablespoons fish sauce \n• \n2 tablespoons tamarind paste \n• \n1 tablespoon sugar \n• \n1 tablespoon lime juice \n• \n1/4 cup green onions, chopped \n• \n2 tablespoons vegetable oil \nInstructions: \n• \nSoak rice noodles in warm water until softened, then drain. \n• \nSauté shrimp or chicken in vegetable oil until cooked, then set aside. \n• \nScramble eggs in the same pan. \n• \nAdd noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \n• \nAdd bean sprouts, cooked shrimp or chicken, and chopped green onions. \n• \nGarnish with chopped peanuts and serve. \n \n \n \nBeef Bourguignon \nIngredients: \n• \n2 pounds beef chuck, cut into cubes \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 cup red wine \n• \n2 cups beef broth \n• \n1 cup mushrooms, sliced \n• \n1 cup carrots, sliced \n• \n1 cup pearl onions \n• \n2 tablespoons tomato paste \n• \n2 tablespoons flour \n• \n2 tablespoons butter \n• \n1 teaspoon thyme \n• \n1 bay leaf \n• \nSalt and pepper to taste \nInstructions: \n• \nPreheat oven to 350°F (175°C). \n• \nIn a large pot, melt butter over medium heat. \n• \nAdd diced onion and minced garlic, sauté until translucent. \n• \nAdd beef cubes and cook until browned on all sides. \n• \nSprinkle flour over the beef and stir to combine. \n• \nAdd red wine, beef broth, tomato paste, thyme, and bay leaf.",
+                "importance_rank": 4
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 5,
+                "refined_text": "• \nShredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings \nInstructions: \n• \nIn a skillet, cook ground beef over medium heat until browned. \n• \nAdd diced onion and minced garlic, sauté until softened. \n• \nStir in taco seasoning and water, simmer until thickened. \n• \nServe beef mixture in taco shells or tortillas with desired toppings. \n \n \n \nLasagna \nIngredients: \n• \n1 pound ground beef \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 jar (24 ounces) marinara sauce \n• \n1 can (15 ounces) ricotta cheese \n• \n1 egg \n• \n1/4 cup grated Parmesan cheese \n• \n1 teaspoon dried basil \n• \n1 teaspoon dried oregano \n• \n9 lasagna noodles, cooked \n• \n2 cups shredded mozzarella cheese \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, cook ground beef, diced onion, and minced garlic until browned. \n• \nStir in marinara sauce and simmer for 10 minutes. \n• \nIn a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. \n• \nSpread a thin layer of meat sauce in a baking dish. \n• \nLayer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 \nof the shredded mozzarella cheese. \n• \nRepeat layers twice more. \n• \nCover with foil and bake for 25 minutes. \n• \nRemove foil and bake for an additional 25 minutes until cheese is melted and bubbly. \n• \nLet stand for 10 minutes before serving. \n \n \n \nChicken Alfredo \nIngredients: \n• \n4 boneless, skinless chicken breasts \n• \n1 pound fettuccine \n• \n1 cup heavy cream \n• \n1/2 cup grated Parmesan cheese \n• \n1/4 cup butter",
+                "importance_rank": 5
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 12,
+                "refined_text": "• \nIn the same skillet, cook ground lamb or beef, diced onion, and minced garlic until \nbrowned. \n• \nStir in diced tomatoes, red wine, cinnamon, oregano, salt, and pepper. \n• \nSimmer for 20 minutes. \n• \nIn a baking dish, layer eggplant slices and meat sauce. \n• \nPour béchamel sauce over the top and sprinkle with grated Parmesan cheese. \n• \nBake for 30-35 minutes until golden and bubbly. \n• \nServe warm. \n \n \n \nJambalaya \nIngredients: \n• \n1 pound chicken breast, cubed \n• \n1/2 pound sausage, sliced \n• \n1/2 pound shrimp, peeled and deveined \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 bell pepper, diced \n• \n1 can (14.5 ounces) diced tomatoes \n• \n1 cup chicken broth \n• \n1 cup long-grain rice \n• \n1 teaspoon paprika \n• \n1 teaspoon thyme \n• \n1 teaspoon cayenne pepper \n• \n2 tablespoons olive oil \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a large pot, heat olive oil over medium heat. \n• \nCook cubed chicken and sliced sausage until browned, then set aside. \n• \nIn the same pot, sauté diced onion, minced garlic, and diced bell pepper until softened. \n• \nStir in diced tomatoes, chicken broth, rice, paprika, thyme, cayenne pepper, salt, and \npepper. \n• \nBring to a boil, then reduce heat and simmer for 20 minutes. \n• \nAdd shrimp and cooked chicken and sausage, simmer for an additional 10 minutes until \nshrimp is cooked and rice is tender. \n• \nServe warm. \n \n \nLamb Curry \nIngredients: \n• \n1 pound lamb, cubed \n• \n1 small onion, diced \n• \n2 cloves garlic, minced",
+                "importance_rank": 6
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 4,
+                "refined_text": "Must-Visit Restaurants \nTo truly experience the culinary delights of the South of France, here are some restaurants \nyou should consider visiting: \n• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald \nPassedat is known for his innovative approach to seafood, creating dishes that are \nboth visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs \noverlooking the sea adds to the overall dining experience. \n• \nLa Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Provençal cuisine with breathtaking views of the French \nRiviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making \nit the perfect spot for a romantic dinner. The menu features dishes that highlight the \nregion's fresh, seasonal ingredients. \n• \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a \nunique dining experience with a focus on fresh, local ingredients and innovative \ndishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with \nmany ingredients sourced from the restaurant's own gardens. The menu changes with \nthe seasons, ensuring that each visit is a new and exciting experience. \n• \nChez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and \ndelicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved \ninstitution in Nice. The restaurant's simple, no-frills approach allows the quality of the \nSocca to shine through. \n• \nL'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its \ncreative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes \nare a feast for the senses, combining bold flavors with artistic presentation. The \nrestaurant's tasting menu oﬀers a journey through the flavors of Provence, with each \ncourse showcasing the region's finest ingredients. \n• \nLa Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a \nsophisticated menu that highlights the flavors of the region. The restaurant is located \nin a historic building in the heart of Saint-Émilion, a town known for its world-class \nwines. The menu features dishes that pair beautifully with the local wines, creating a \ntruly memorable dining experience.",
+                "importance_rank": 7
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 14,
+                "refined_text": "• \n1 pound ground beef \n• \n1/2 pound ground pork \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1/2 cup breadcrumbs \n• \n1/4 cup milk \n• \n1 egg, beaten \n• \n1/4 cup ketchup \n• \n1 tablespoon Worcestershire sauce \n• \n1 teaspoon salt \n• \n1/2 teaspoon pepper \nInstructions: \n• \nPreheat oven to 350°F (175°C). \n• \nIn a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, \nmilk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper. \n• \nShape the mixture into a loaf and place in a baking dish. \n• \nBake for 1 hour until cooked through. \n• \nLet rest before slicing and serving. \n \n \n \nPaella \nIngredients: \n• \n1/2 pound chicken breast, cubed \n• \n1/2 pound shrimp, peeled and deveined \n• \n1/2 pound mussels, cleaned \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 bell pepper, diced \n• \n1 cup short-grain rice \n• \n2 cups chicken broth \n• \n1/2 cup white wine \n• \n1/4 cup olive oil \n• \n1 teaspoon saffron \n• \n1 teaspoon paprika \n• \nSalt and pepper to taste \n• \nLemon wedges for garnish \nInstructions: \n• \nIn a large skillet, heat olive oil over medium heat. \n• \nCook cubed chicken until browned, then set aside. \n• \nIn the same skillet, sauté diced onion, minced garlic, and diced bell pepper until \nsoftened. \n• \nStir in rice, chicken broth, white wine, saffron, paprika, salt, and pepper. \n• \nBring to a boil, then reduce heat and simmer for 15 minutes.",
+                "importance_rank": 8
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 6,
+                "refined_text": "Culinary Experiences \nIn addition to dining at top restaurants, there are several culinary experiences you should \nconsider: \n• \nCooking Classes: Many towns and cities in the South of France oﬀer cooking classes \nwhere you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and \ntarte tropézienne. These classes are a great way to immerse yourself in the local \nculture and gain hands-on experience with regional recipes. Some classes even \ninclude a visit to a local market to shop for fresh ingredients. \n• \nFood Markets: Visit local markets such as the Cours Saleya Market in Nice or the \nMarché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These \nmarkets are a feast for the senses, with stalls overflowing with colorful fruits and \nvegetables, fragrant herbs, and artisanal products. Take the time to chat with the \nvendors and learn about the local specialties. \n• \nWine Tours: The South of France is renowned for its wine regions, including Provence \nand Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about \nthe winemaking process. Many wineries oﬀer guided tours and tastings, giving you the \nopportunity to sample a variety of wines and discover new favorites. Don't miss the \nchance to try rosé from Provence, which is famous for its light, refreshing flavor. \n• \nOlive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn \nabout olive oil production and enjoy a tasting session. You'll have the chance to \nsample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. \nMany olive groves also produce other products like tapenade and olive soap, which \nmake great souvenirs. \n• \nTruﬄe Hunting: The South of France is known for its truﬄes, particularly the black \ntruﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of \nsearching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a \nknowledgeable guide who will teach you about the truﬄe's history and culinary uses. \nAfter the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds. \n• \nFarm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-\ntable philosophy, sourcing their ingredients from local farms and producers. Look for \nrestaurants that highlight seasonal, locally grown produce and sustainably raised \nmeats. Dining at a farm-to-table restaurant is a wonderful way to support local \nagriculture and enjoy the freshest ingredients available.",
+                "importance_rank": 9
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 6,
+                "refined_text": "• \n2 cloves garlic, minced \n• \nSalt and pepper to taste \n• \nChopped parsley for garnish \nInstructions: \n• \nCook fettuccine according to package instructions. \n• \nIn a skillet, melt butter over medium heat. \n• \nAdd minced garlic and sauté until fragrant. \n• \nAdd chicken breasts and cook until golden and cooked through. \n• \nRemove chicken from the skillet and set aside. \n• \nPour heavy cream into the skillet and bring to a simmer. \n• \nStir in grated Parmesan cheese until melted and smooth. \n• \nSeason with salt and pepper. \n• \nSlice chicken and return to the skillet. \n• \nToss cooked fettuccine with the sauce and chicken. \n• \nGarnish with chopped parsley and serve. \n \n \n \nShepherd's Pie \nIngredients: \n• \n1 pound ground lamb or beef \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 cup frozen peas and carrots \n• \n1 cup beef broth \n• \n2 tablespoons tomato paste \n• \n2 tablespoons Worcestershire sauce \n• \n4 cups mashed potatoes \n• \n1/4 cup grated cheddar cheese \n• \nSalt and pepper to taste \nInstructions: \n• \nPreheat oven to 400°F (200°C). \n• \nIn a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. \n• \nStir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. \n• \nSimmer until thickened, season with salt and pepper. \n• \nTransfer meat mixture to a baking dish. \n• \nSpread mashed potatoes over the top and sprinkle with grated cheddar cheese. \n• \nBake for 20-25 minutes until golden and bubbly. \n• \nServe warm. \n \n \n \nPad Thai \nIngredients:",
+                "importance_rank": 10
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 6,
+                "refined_text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise \nand socca (a chickpea flour pancake) being local specialties.",
+                "importance_rank": 11
+            },
+            {
+                "document": "Dinner Ideas - Mains_3.pdf",
+                "page_number": 2,
+                "refined_text": "Quiche Lorraine \nIngredients: \n• \n1 pie crust \n• \n6 slices bacon, cooked and crumbled \n• \n1 small onion, diced \n• \n1 cup grated Gruyère cheese \n• \n3 eggs \n• \n1 cup heavy cream \n• \n1/2 teaspoon salt \n• \n1/4 teaspoon pepper \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nPlace pie crust in a pie dish. \n• \nSprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. \n• \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n• \nPour egg mixture over the filling. \n• \nBake for 30-35 minutes until set and golden. \n• \nServe warm. \n \n \n \nRamen \nIngredients: \n• \n4 cups chicken broth \n• \n1/4 cup soy sauce \n• \n2 tablespoons miso paste \n• \n2 cloves garlic, minced \n• \n1 piece ginger, sliced \n• \n1/2 pound pork belly, sliced \n• \n4 eggs, soft-boiled \n• \n8 ounces ramen noodles \n• \nSliced green onions, nori, and sesame seeds for garnish \nInstructions: \n• \nIn a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced \nginger to a boil. \n• \nReduce heat and simmer for 20 minutes. \n• \nIn a skillet, cook sliced pork belly until crispy. \n• \nCook ramen noodles according to package instructions. \n• \nDivide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green \nonions, nori, and sesame seeds. \n• \nServe immediately.",
+                "importance_rank": 12
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 11,
+                "refined_text": "• \nIn a bowl, mix crab meat, diced onion, breadcrumbs, mayonnaise, beaten egg, Dijon \nmustard, Worcestershire sauce, and Old Bay seasoning. \n• \nForm mixture into patties. \n• \nIn a skillet, heat vegetable oil over medium heat. \n• \nCook crab cakes until golden and crispy on both sides. \n• \nServe with lemon wedges. \n \n \n \nEnchiladas \nIngredients: \n• \n1 pound ground beef \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 can (14.5 ounces) enchilada sauce \n• \n1 cup shredded cheese \n• \n8 tortillas \n• \n1 teaspoon cumin \n• \n1 teaspoon chili powder \n• \n2 tablespoons vegetable oil \n• \nSalt and pepper to taste \nInstructions: \n• \nPreheat oven to 375°F (190°C). \n• \nIn a skillet, heat vegetable oil over medium heat. \n• \nCook ground beef, diced onion, and minced garlic until browned. \n• \nStir in cumin, chili powder, salt, and pepper. \n• \nFill tortillas with beef mixture and roll up. \n• \nPlace enchiladas in a baking dish and pour enchilada sauce over the top. \n• \nSprinkle with shredded cheese. \n• \nBake for 20-25 minutes until cheese is melted and bubbly. \n• \nServe warm. \n \n \n \nFettuccine Alfredo \nIngredients: \n• \n1 pound fettuccine \n• \n1 cup heavy cream \n• \n1/2 cup grated Parmesan cheese \n• \n1/4 cup butter \n• \n2 cloves garlic, minced \n• \nSalt and pepper to taste \n• \nChopped parsley for garnish \nInstructions:",
+                "importance_rank": 13
+            },
+            {
+                "document": "Dinner Ideas - Mains_2.pdf",
+                "page_number": 5,
+                "refined_text": "• \n1/4 cup grated Parmesan cheese \n• \n1 teaspoon oregano \n• \n1 teaspoon basil \n• \nSalt and pepper to taste \n• \n2 tablespoons olive oil \n• \n1 jar (24 ounces) marinara sauce \nInstructions: \n• \nIn a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beaten egg, \ngrated Parmesan cheese, oregano, basil, salt, and pepper. \n• \nForm mixture into meatballs. \n• \nIn a skillet, heat olive oil over medium heat. \n• \nCook meatballs until browned on all sides. \n• \nAdd marinara sauce and simmer for 20 minutes until meatballs are cooked through. \n• \nServe warm. \n \n \n \nVegetable Stir-Fry \nIngredients: \n• \n1 cup broccoli florets \n• \n1 cup bell peppers, sliced \n• \n1 cup snow peas \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n2 tablespoons soy sauce \n• \n1 tablespoon oyster sauce \n• \n1 tablespoon sesame oil \n• \n1 teaspoon cornstarch \n• \n1/4 cup water \n• \nCooked rice for serving \nInstructions: \n• \nIn a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water. \n• \nIn a large skillet, heat sesame oil over medium heat. \n• \nSauté diced onion and minced garlic until fragrant. \n• \nAdd broccoli, bell peppers, and snow peas, stir-fry until tender. \n• \nPour sauce over the vegetables and cook until thickened. \n• \nServe over cooked rice. \n \n \n \nVietnamese Pho \nIngredients: \n• \n1 pound beef sirloin, thinly sliced \n• \n8 cups beef broth",
+                "importance_rank": 14
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 7,
+                "refined_text": "• \nCheese Tasting: The South of France is home to a variety of delicious cheeses, \nincluding Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a \nfarm to sample these cheeses and learn about their production. Many cheese \nproducers oﬀer tours and tastings, giving you the opportunity to discover the unique \nflavors and textures of the region's cheeses. \n• \nPastry Workshops: French pastries are renowned worldwide, and the South of France \nis no exception. Join a pastry workshop to learn how to make classic French pastries \nlike croissants, éclairs, and macarons. These workshops are a fun and interactive way \nto improve your baking skills and take home some delicious treats.",
+                "importance_rank": 15
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 3,
+                "refined_text": "Famous Dishes \nThe South of France is home to many iconic dishes that you must try during your visit: \n• \nBouillabaisse: A traditional fish stew from Marseille, made with various types of fish, \nshellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is \ntypically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a \ncelebration of the sea and is best enjoyed in a seaside restaurant with a view of the \nMediterranean. \n• \nRatatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, \nand onions, seasoned with herbs de Provence. Ratatouille can be served as a main \ndish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a \ntestament to the region's love for fresh, seasonal produce. \n• \nSalade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, \nolives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect \nexample of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, \nand healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day. \n• \nSocca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically \nenjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best \neaten hot, straight from the oven. It's a simple yet delicious snack that showcases the \nregion's love for humble, rustic dishes. \n• \nCassoulet: A hearty casserole from the Languedoc region, made with white beans, \nsausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow \ncooking to develop its rich, complex flavors. The dish is a comforting and satisfying \nmeal that is perfect for a chilly evening. \n• \nTarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a \ncreamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is \nperfect for a special occasion or as an indulgent afternoon snack. The dessert was \ncreated by a Polish baker in the 1950s and quickly became a favorite among locals and \ntourists alike.",
+                "importance_rank": 16
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 3,
+                "refined_text": "• \nPlace chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. \n• \nBake for 20-25 minutes until cheese is melted and bubbly. \n• \nServe warm. \n \n \n \nSpaghetti Bolognese \nIngredients: \n• \n1 pound ground beef \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n1 carrot, grated \n• \n1 celery stalk, diced \n• \n1 can (28 ounces) crushed tomatoes \n• \n1/4 cup tomato paste \n• \n1/2 cup red wine (optional) \n• \n1 teaspoon dried oregano \n• \n1 teaspoon dried basil \n• \nSalt and pepper to taste \n• \nSpaghetti for serving \n• \nGrated Parmesan cheese for garnish \nInstructions: \n• \nIn a large skillet, cook ground beef over medium heat until browned. \n• \nAdd diced onion, minced garlic, grated carrot, and diced celery, sauté until vegetables \nare tender. \n• \nStir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and \npepper. \n• \nSimmer for 30 minutes, stirring occasionally. \n• \nCook spaghetti according to package instructions. \n• \nServe Bolognese sauce over spaghetti, garnished with grated Parmesan cheese. \n \n \n \nTeriyaki Chicken \nIngredients: \n• \n4 boneless, skinless chicken thighs \n• \n1/4 cup soy sauce \n• \n1/4 cup mirin \n• \n2 tablespoons sugar \n• \n1 tablespoon sake \n• \n1 teaspoon grated ginger \n• \n1 teaspoon minced garlic \n• \n1 tablespoon vegetable oil \n• \nCooked rice for serving",
+                "importance_rank": 17
+            },
+            {
+                "document": "South of France - Cuisine.pdf",
+                "page_number": 8,
+                "refined_text": "Conclusion \nThe South of France oﬀers a rich and diverse culinary landscape that is sure to delight any \nfood lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary \nexperiences, there is something for everyone to enjoy. Whether you're savoring a bowl of \nbouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred \nmeal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan \nyour culinary journey and savor the tastes of the South of France, creating memories that will \nlinger long after your trip has ended. Bon appétit!",
+                "importance_rank": 18
+            },
+            {
+                "document": "South of France - Cities.pdf",
+                "page_number": 4,
+                "refined_text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-\nflavored aperitif) being local favorites.",
+                "importance_rank": 19
+            },
+            {
+                "document": "Dinner Ideas - Mains_1.pdf",
+                "page_number": 15,
+                "refined_text": "• \nAdd shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until \nseafood is cooked and rice is tender. \n• \nGarnish with lemon wedges and serve. \n \n \n \nPork Chops with Apples \nIngredients: \n• \n4 pork chops \n• \n2 apples, sliced \n• \n1 small onion, sliced \n• \n1/4 cup apple cider \n• \n1/4 cup chicken broth \n• \n2 tablespoons butter \n• \n1 tablespoon olive oil \n• \n1 teaspoon thyme \n• \nSalt and pepper to taste \nInstructions: \n• \nSeason pork chops with salt and pepper. \n• \nIn a large skillet, heat olive oil over medium heat. \n• \nCook pork chops until browned on both sides, then set aside. \n• \nIn the same skillet, melt butter and sauté sliced onion and apples until softened. \n• \nStir in apple cider, chicken broth, and thyme. \n• \nReturn pork chops to the skillet and simmer for 10 minutes until cooked through. \n• \nServe warm. \n \n \n \nRatatouille \nIngredients: \n• \n1 eggplant, diced \n• \n1 zucchini, diced \n• \n1 bell pepper, diced \n• \n1 small onion, diced \n• \n2 cloves garlic, minced \n• \n4 tomatoes, diced",
+                "importance_rank": 20
+            }
+        ]
+    }
+]
