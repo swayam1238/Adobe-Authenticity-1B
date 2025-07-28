@@ -12,7 +12,7 @@ INPUT_DIR = "input"
 OUTPUT_DIR = "output"
 DOCUMENTS_DIR = os.path.join(INPUT_DIR, "documents")
 PERSONA_FILE = os.path.join(INPUT_DIR, "persona1.json")
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "challenge1b_output3.json")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "challenge1b_output.json")
 
 # --- Load SentenceTransformer model ---
 def load_model(model_name):
