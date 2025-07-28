@@ -1,0 +1,44 @@
+[
+  {
+    "persona": {
+      "role": "Travel Planner",
+      "expertise": [
+        "Itinerary Creation",
+        "Group Travel Logistics",
+        "Budget Management",
+        "Activity Planning"
+      ]
+    },
+    "job_to_be_done": {
+      "task": "Plan a trip of 4 days for a group of 10 college friends."
+    }
+  },
+  {
+    "persona": {
+      "role": "HR professional",
+      "expertise": [
+        "Onboarding Processes",
+        "Compliance Regulations",
+        "Form Design",
+        "Record Management"
+      ]
+    },
+    "job_to_be_done": {
+      "task": "Create and manage fillable forms for onboarding and compliance."
+    }
+  },
+  {
+    "persona": {
+      "role": "Food Contractor",
+      "expertise": [
+        "Menu Planning",
+        "Vegetarian Cuisine",
+        "Gluten-Free Options",
+        "Catering Logistics"
+      ]
+    },
+    "job_to_be_done": {
+      "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    }
+  }
+]
